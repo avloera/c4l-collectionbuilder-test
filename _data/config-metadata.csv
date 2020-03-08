@@ -2,9 +2,11 @@ field,display_name,browse_link
 title,Title,
 creator,Creator,
 date,Date Created,
+date-is-approximate?, Date is Approximate? 
 description,Description,
 subject,Subjects,true
-location,Location
+recipient, Recipient,
+item_information, Item Information, 
 latitude,Latitude
 longitude,Longitude
 source,Source
